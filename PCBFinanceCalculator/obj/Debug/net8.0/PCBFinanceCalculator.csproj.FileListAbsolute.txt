@@ -1,0 +1,14 @@
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\bin\Debug\net8.0\PCBFinanceCalculator.exe
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\bin\Debug\net8.0\PCBFinanceCalculator.deps.json
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\bin\Debug\net8.0\PCBFinanceCalculator.runtimeconfig.json
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\bin\Debug\net8.0\PCBFinanceCalculator.dll
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\bin\Debug\net8.0\PCBFinanceCalculator.pdb
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\obj\Debug\net8.0\PCBFinanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\obj\Debug\net8.0\PCBFinanceCalculator.AssemblyInfoInputs.cache
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\obj\Debug\net8.0\PCBFinanceCalculator.AssemblyInfo.cs
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\obj\Debug\net8.0\PCBFinanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\obj\Debug\net8.0\PCBFinanceCalculator.dll
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\obj\Debug\net8.0\refint\PCBFinanceCalculator.dll
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\obj\Debug\net8.0\PCBFinanceCalculator.pdb
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\obj\Debug\net8.0\PCBFinanceCalculator.genruntimeconfig.cache
+C:\Users\Ahmed14\source\repos\PCBFinanceCalculator\PCBFinanceCalculator\obj\Debug\net8.0\ref\PCBFinanceCalculator.dll
